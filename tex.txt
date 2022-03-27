@@ -1,0 +1,8 @@
+pass=dvI3CMjPBCVFuLg5
+username=arbaazuniquecluster
+
+
+mongodb+srv://arbaazuniquecluster:dvI3CMjPBCVFuLg5@cluster0.ufmww.mongodb.net/test
+
+
+mongodb://localhost:27017/newUsers
